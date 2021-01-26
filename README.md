@@ -1,6 +1,9 @@
 ### Hi, I'm Alain! 👋
 ### I'm Always Looking To Build Something Awesome With Other Awesome People! ⚡
 ### I Love JavaScript, HTML, CSS, & Node.js! 😄
+### devcoder0x0@gmail.com 📫
+### Portfolio - https://devCoder0x0.github.io 🔭
+### LinkedIn - https://www.linkedin.com/in/alain-picard/ 🌱
 
 
 <!--

@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Alain! 👋
+### I'm Always Looking To Build Something Awesome With Other Awesome People! ⚡
+
 
 <!--
 **DevCoder0x0/DevCoder0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

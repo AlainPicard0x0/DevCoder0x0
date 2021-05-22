@@ -1,6 +1,6 @@
 ### Hi, I'm Alain! 👋
 ### I'm Always Looking To Build Something Awesome With Other Awesome People! ⚡
-### I Love JavaScript, HTML, CSS, & Node.js! 😄
+### I Love Java, React, JavaScript, HTML, CSS, & Node.js! 😄
 ### Portfolio - https://devCoder0x0.github.io 🔭
 ### LinkedIn - https://www.linkedin.com/in/alain-picard/ 🌱
 

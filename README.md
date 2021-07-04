@@ -1,4 +1,4 @@
-### Hi, I'm Alain! 👋
+### Hi, I'm Alain! 👋![image]({https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white})
 
 
 ### I'm Always Looking To Build Something Awesome With Other Awesome People! ⚡

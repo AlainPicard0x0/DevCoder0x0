@@ -1,8 +1,8 @@
-### Hi, I'm Alain! 👋![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### Hi, I'm Alain! 👋
 
 
 ### I'm Always Looking To Build Something Awesome With Other Awesome People! ⚡
-### I Love Java, React, JavaScript, HTML, CSS, & Node.js! 😄
+### I Love ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white), React, ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), HTML, CSS, & Node.js! 😄
 ### Portfolio - https://devCoder0x0.github.io 🔭
 ### LinkedIn - https://www.linkedin.com/in/alain-picard/ 🌱
 

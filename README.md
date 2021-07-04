@@ -1,4 +1,4 @@
-### Hi, I'm Alain! 👋 ![mario-luigi02](https://user-images.githubusercontent.com/46497761/124371518-4a223580-dc37-11eb-8335-84b0442b0462.gif)
+### Hi, I'm Alain! 👋
 
 
 ### I'm Always Looking To Build Something Awesome With Other Awesome People! ⚡

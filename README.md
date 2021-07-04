@@ -6,7 +6,7 @@
 ### ![image](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ### :octocat: Portfolio - https://devCoder0x0.github.io :octocat:
 ### LinkedIn - https://www.linkedin.com/in/alain-picard/ 
-
+![image](https://camo.githubusercontent.com/06533d5627a32d4461094c38026c48cb908a3be22b1c880f3e1442a224e244f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4861636b746f626572666573742d323032302d626c756576696f6c6574)
 
 <!--
 **DevCoder0x0/DevCoder0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
